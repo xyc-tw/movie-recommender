@@ -38,7 +38,7 @@ This project is built with ***Python*** and ***scikit-learn***.
 
 Hsinyu Chen - [@linkedIn](https://www.linkedin.com/in/hsinyu-chen-4b43b489/) - [@email](chenxinyu.tw@gmail.com)
 
-Project Link: [@github](https://github.com/xyc-tw/berlin-temp-predictor) - [@render](https://movie-recommender-8a7j.onrender.com)
+Project Link: [@github](https://github.com/xyc-tw/berlin-temp-predictor) - [@render](https://movie-recommender-k8w2.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
